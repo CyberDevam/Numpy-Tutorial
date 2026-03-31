@@ -1,0 +1,24 @@
+🟢 Beginner Level
+Create a NumPy array from a Python list [1, 2, 3, 4, 5].
+Generate an array of 10 zeros and another of 10 ones.
+Create an array of numbers from 0 to 9 using a built-in function.
+Find the shape and data type of a given NumPy array.
+Reshape a 1D array of 12 elements into a 3×4 matrix.
+🟡 Intermediate Level
+Create a 5×5 matrix with values from 1 to 25.
+Extract the second row and third column from a matrix.
+Perform element-wise addition, subtraction, and multiplication on two arrays.
+Find the mean, median, and standard deviation of an array.
+Replace all even numbers in an array with 0.
+🔵 Advanced Level
+Create a random 4×4 matrix and compute its determinant.
+Normalize an array (values between 0 and 1).
+Find indices of elements greater than a given value.
+Perform matrix multiplication between two arrays.
+Implement broadcasting to add a 1D array to a 2D array.
+🔴 Challenge Questions
+Given a large array, find the top 3 maximum values without sorting the entire array.
+Create a checkerboard pattern (8×8) using NumPy.
+Simulate rolling a dice 1000 times and compute probability distribution.
+Solve a system of linear equations using NumPy.
+Implement a simple image manipulation (invert grayscale image using NumPy).
